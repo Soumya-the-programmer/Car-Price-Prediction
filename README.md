@@ -38,8 +38,8 @@ This project predicts the **price of used cars** based on features like brand, m
 - Missing values were handled using **mean imputation & category encoding**.
 
 ## 📊 Dataset Source  
-The dataset used in this project was obtained from Kaggle.  
-You can find the original dataset here: **[Kaggle Dataset Link](https://www.kaggle.com/)**  
+- **The dataset used in this project was obtained from Kaggle.**  
+- **You can find the original dataset here:** **([https://www.kaggle.com/](https://www.kaggle.com/datasets/asinow/car-price-dataset))**  
 
 *Note: This dataset is publicly available for research and learning purposes.* 
 
