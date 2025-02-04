@@ -3,6 +3,21 @@
 ## 📌 Overview
 This project predicts the **price of used cars** based on features like brand, model, engine size, year, fuel type, and transmission type. The model is trained using **Multiple Linear Regression** with **Feature Engineering techniques** for handling categorical and missing data.
 
+## 🤖 Model Performance: Predicted vs Original Prices
+
+*Below is a sample comparison of the predicted car prices and their original prices from the dataset:*
+
+| Original Price | Predicted Price |
+|--------------|----------------|
+| 5901        | 5923.09        |
+| 5425        | 5445.46        |
+| 15398       | 15371.08       |
+| 4731        | 4754.03        |
+| 4912        | 4944.71        |
+| ...         | ...            |
+
+- *The model achieved **99.93% accuracy**, demonstrating strong predictive performance.*
+
 ## 🔍 Features & Techniques Used
 ✅ **Data Cleaning & Preprocessing**  
    - Removed **null values & duplicates**  
@@ -15,7 +30,7 @@ This project predicts the **price of used cars** based on features like brand, m
    - Achieved **99.93% accuracy**  
 
 ✅ **Tools & Technologies Used**  
-   - **Python, pandas, NumPy, Matplotlib**  
+   - **Python, pandas**  
    - **scikit-learn (Linear Regression, Encoding, Model Evaluation)**  
 
 ## 📂 Dataset  
@@ -25,7 +40,7 @@ This project predicts the **price of used cars** based on features like brand, m
 ## 🚀 How to Run the Project
 1️⃣ **Install dependencies:**  
 ```bash
-pip install numpy pandas scikit-learn matplotlib
+pip install pandas scikit-learn 
 ```
 2️⃣ **Run the ML model script:**
 
