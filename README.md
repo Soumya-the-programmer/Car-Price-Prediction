@@ -23,11 +23,11 @@ This project predicts the **price of used cars** based on features like brand, m
 - Missing values were handled using **mean imputation & category encoding**.  
 
 ## 🚀 How to Run the Project
-1️⃣ Install dependencies:  
+1️⃣ **Install dependencies:**  
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 ```
-2️⃣ Run the ML model script:
+2️⃣ **Run the ML model script:**
 
 ```bash
 python car_price_prediction_model.py
