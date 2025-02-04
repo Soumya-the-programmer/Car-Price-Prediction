@@ -35,7 +35,13 @@ This project predicts the **price of used cars** based on features like brand, m
 
 ## 📂 Dataset  
 - `car_price_dataset.csv` contains historical data of **car sales with features like brand, mileage, engine size, etc.**  
-- Missing values were handled using **mean imputation & category encoding**.  
+- Missing values were handled using **mean imputation & category encoding**.
+
+## 📊 Dataset Source  
+The dataset used in this project was obtained from Kaggle.  
+You can find the original dataset here: **[Kaggle Dataset Link](https://www.kaggle.com/)**  
+
+*Note: This dataset is publicly available for research and learning purposes.* 
 
 ## 🚀 How to Run the Project
 1️⃣ **Install dependencies:**  
