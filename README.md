@@ -3,6 +3,12 @@
 ## 📌 Overview
 This project predicts the **price of used cars** based on features like brand, model, engine size, year, fuel type, and transmission type. The model is trained using **Multiple Linear Regression** with **Feature Engineering techniques** for handling categorical and missing data.
 
+## 📊 Actual vs. Predicted Car Prices
+
+**Here’s a visual representation of my model’s predictions compared to actual car prices:**
+
+![Actual vs. Predicted Prices](https://github.com/user-attachments/assets/7f57323d-38d9-408a-a22b-193f6a4a35e8)
+
 ## 🤖 Model Performance: Predicted vs Original Prices
 
 *Below is a sample comparison of the predicted car prices and their original prices from the dataset:*
