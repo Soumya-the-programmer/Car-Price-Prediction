@@ -36,7 +36,7 @@ This project predicts the **price of used cars** based on features like brand, m
    - Achieved **99.93% accuracy**  
 
 ✅ **Tools & Technologies Used**  
-   - **Python, pandas**  
+   - **Python, pandas, numpy, matplotlib**  
    - **scikit-learn (Linear Regression, Encoding, Model Evaluation)**  
 
 ## 📂 Dataset  
@@ -52,7 +52,7 @@ This project predicts the **price of used cars** based on features like brand, m
 ## 🚀 How to Run the Project
 1️⃣ **Install dependencies:**  
 ```bash
-pip install pandas scikit-learn 
+pip install pandas scikit-learn numpy matplotlib
 ```
 2️⃣ **Run the ML model script:**
 
